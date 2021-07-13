@@ -1,0 +1,91 @@
+
+.Quienes {
+background-color: black;
+}
+
+.favicons {
+  text-align: center;
+  background-color: #17a3b8;
+  margin-bottom: 8px;
+}
+
+h1  {
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+hr  {
+  color: #0a5964;
+  opacity: 0.9;
+  height: 4px !important;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+i {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.Destacados {
+background-color: black;
+}
+
+.tarje {
+  height: 400px;
+  background-color: #17a3b8;
+  border-color: #737373;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: medium;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+h5 {
+  color: white;
+}
+
+.Contacto {
+  background-color: black;
+}
+
+.cuadrado {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.cuerpo {
+  padding-bottom: 150px;
+}
+
+.hola {
+  padding-top: 100px;
+  font-size: 25px;
+}
+
+.pie {
+  background-color: #17a3b8;
+  padding: 10px;
+}
+
+.viajeschi {
+  color: white;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.logos {
+  float: right;
+}
